@@ -9,22 +9,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout repo
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      # 2️⃣ Setup Node.js (🔥 MUST BE 20+)
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
           cache: npm
 
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: npm ci
 
-      - name: Build Vite app
+      # 4️⃣ Build Vite app
+      - name: Build project
         run: npm run build
         env:
           VITE_API_BASE: ${{ secrets.VITE_API_BASE }}
           VITE_API_SECRET: ${{ secrets.VITE_API_SECRET }}
 
+      # 5️⃣ Deploy to Firebase Hosting
       - name: Deploy to Firebase Hosting
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
