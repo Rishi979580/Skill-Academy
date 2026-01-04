@@ -1,0 +1,23 @@
+{
+  "title": "Privacy Policy",
+  "updated": "January 2026",
+  "sections": [
+    {
+      "heading": "Information We Collect",
+      "text": "We collect your name, email address, phone number, and workshop enrollment details."
+    },
+    {
+      "heading": "How We Use Your Information",
+      "text": "Your information is used only for workshop registration, updates, and learning communication."
+    },
+    {
+      "heading": "Data Protection",
+      "text": "We do not sell or share your personal data. All data is stored securely."
+    },
+    {
+      "heading": "Communication",
+      "text": "By registering, you agree to receive workshop-related emails and WhatsApp updates."
+    }
+  ],
+  "contactEmail": "futureway.in@gmail.com"
+}

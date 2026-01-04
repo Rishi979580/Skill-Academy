@@ -1,0 +1,18 @@
+{
+  "brand": {
+    "highlight": "FutureWay",
+    "name": "Skill"
+  },
+  "menuItems": [
+    { "label": "Home", "path": "/" },
+    { "label": "Python Workshop", "path": "/python" },
+    { "label": "AI Tools Workshop", "path": "/ai" },
+    { "label": "About", "path": "/about" },
+    { "label": "Contact", "path": "/contact" }
+  ],
+  "cta": {
+    "label": "Join Live Workshop",
+    "route": "/register-workshop"
+
+  }
+}

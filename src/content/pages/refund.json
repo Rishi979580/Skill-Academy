@@ -1,0 +1,22 @@
+{
+  "title": "Cancellation / Refund Policy",
+  "updated": "January 2026",
+  "sections": [
+    {
+      "heading": "Free Workshops",
+      "text": "Free workshops are non-refundable."
+    },
+    {
+      "heading": "Paid Workshops",
+      "text": "Paid workshop fees are non-refundable once enrolled."
+    },
+    {
+      "heading": "Exceptions",
+      "text": "Refunds are considered only if the workshop is cancelled by Futureway Skill."
+    }
+  ],
+  "support": {
+    "email": "futureway.in@gmail.com",
+    "phone": "+91 97952 98080"
+  }
+}

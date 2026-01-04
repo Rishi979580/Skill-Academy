@@ -1,20 +1,13 @@
 import WorkshopForm from "../components/WorkshopForm";
+import workshopData from "../content/sections/workshop-form.json";
 
 export default function WorkshopPage() {
   return (
-    <section
-      id="workshop"
-      className="py-24 px-6 bg-black scroll-mt-24"
-    >
+    <section className="py-24 px-6 bg-black">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
 
-
- {/* RIGHT FORM */}
-        <WorkshopForm />
         {/* LEFT CONTENT */}
         <div>
-
-          {/* 🔥 IMAGE ON TOP */}
           <img
             src="/images/python-ai.png"
             alt="Python AI Workshop"
@@ -27,27 +20,19 @@ export default function WorkshopPage() {
 
           <p className="text-zinc-400 mb-6">
             Learn Python automation, Cloud Run, Firebase, Email Automation
-            & AI basics in one live session.
+            & AI basics in one live workshop.
           </p>
 
           <ul className="space-y-3 text-zinc-300">
-            <li className="flex gap-2">
-              <span className="text-primary">✔</span> 2.5 Hours Live Training
-            </li>
-            <li className="flex gap-2">
-              <span className="text-primary">✔</span> Beginner Friendly
-            </li>
-            <li className="flex gap-2">
-              <span className="text-primary">✔</span> Real Automation Projects
-            </li>
-            <li className="flex gap-2">
-              <span className="text-primary">✔</span> 100% Free
-            </li>
+            <li>✔ 2.5 Hours Live Training</li>
+            <li>✔ Beginner Friendly</li>
+            <li>✔ Real Automation Projects</li>
+            <li>✔ 100% Free</li>
           </ul>
         </div>
 
-       
-
+        {/* RIGHT FORM (DATA PASSED HERE) */}
+        <WorkshopForm {...workshopData} />
       </div>
     </section>
   );

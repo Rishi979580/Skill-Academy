@@ -1,0 +1,18 @@
+{
+  "sectionId": "workshops",
+  "leftTitle": "Our Workshops",
+  "leftDescription": "Industry-oriented workshops designed for beginners and professionals.",
+  "features": [
+    "No coding background required",
+    "Reduce daily work by 2+ hours",
+    "Live hands-on practice",
+    "Completion certificate"
+  ],
+  "leftCtaText": "Enroll Now",
+  "rightImage": "/images/ai-workshop.png",
+  "rightTitle": "Join Free Workshop",
+  "rightDescription": "Learn Python, Automation & AI basics.",
+  "price": "₹0",
+  "oldPrice": "₹9999",
+  "rightCtaText": "Join Free Workshop"
+}

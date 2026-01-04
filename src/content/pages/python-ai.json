@@ -1,0 +1,34 @@
+{
+  "sectionId": "python-ai",
+  "image": "/images/python-ai.png",
+  "cardTitle": "Python + AI Program",
+  "cardDescription": "Learn automation, AI tools, and industry workflows in a structured, beginner-friendly format.",
+  "price": "₹4999",
+  "oldPrice": "₹14999",
+  "enrollText": "Enroll Now",
+  "rightTitle": "Learn Python & AI",
+  "rightDescription": "Master Python automation and AI tools to build real-world projects and fast-track your tech career.",
+  "points": [
+    {
+      "icon": "🐍",
+      "text": "Python from basics to advanced automation"
+    },
+    {
+      "icon": "🤖",
+      "text": "AI tools, prompt engineering & workflows"
+    },
+    {
+      "icon": "🚀",
+      "text": "Automate repetitive tasks, email & reports"
+    },
+    {
+      "icon": "🧩",
+      "text": "Hands-on projects with real-world use cases"
+    },
+    {
+      "icon": "💼",
+      "text": "Job-ready skills with portfolio guidance"
+    }
+  ],
+  "ctaText": "Join Python Mastery"
+}

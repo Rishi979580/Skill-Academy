@@ -1,0 +1,41 @@
+{
+  "brand": {
+    "short": "FWS",
+    "name": "Futureway Skill"
+  },
+  "description": "Empowering professionals with cutting-edge AI and data skills through expert-led workshops and training programs.",
+  "socialLinks": [
+    { "icon": "facebook", "url": "#" },
+    { "icon": "instagram", "url": "#" },
+    { "icon": "twitter", "url": "#" },
+    { "icon": "linkedin", "url": "#" },
+    { "icon": "youtube", "url": "#" }
+  ],
+  "columns": [
+    {
+      "title": "Quick Links",
+      "links": [
+        { "label": "About Us" },
+        { "label": "Contact Us" },
+        { "label": "Teach with Us" }
+      ]
+    },
+    {
+      "title": "Policies",
+      "links": [
+        { "label": "Cancellation / Refund" },
+        { "label": "Privacy Policy" },
+        { "label": "Terms of Service" }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        { "label": "Guest Posting" },
+        { "label": "AI Tool of the Day" },
+        { "label": "Workshops" }
+      ]
+    }
+  ],
+  "copyright": "© 2025 Futureway Skill. All rights reserved."
+}

@@ -1,0 +1,24 @@
+{
+  "title": "AI Mastery",
+  "description": "Learn Prompt Engineering, AI-powered Excel, and automation techniques to work smarter and faster.",
+  "ctaText": "Join AI Mastery",
+  "image": "/images/ai-mastery.png",
+  "points": [
+    {
+      "icon": "⚡",
+      "text": "Master Prompt Engineering for real-world use"
+    },
+    {
+      "icon": "📊",
+      "text": "Automate Excel reports using AI & formulas"
+    },
+    {
+      "icon": "🤖",
+      "text": "Build chatbots & AI assistants for daily work"
+    },
+    {
+      "icon": "🚀",
+      "text": "Save hours of manual work with AI automation"
+    }
+  ]
+}

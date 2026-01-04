@@ -1,0 +1,24 @@
+{
+  "badge": {
+    "title": "100% FREE",
+    "subtitle": "Limited seats • Live workshop"
+  },
+  "countdown": {
+    "label": "⏰ Workshop Starts In",
+    "targetDate": "2026-01-11T19:00:00"
+  },
+  "heading": "Join Free Python & AI Workshop",
+  "subheading": "Automation • AI Tools • Real Projects",
+  "fields": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number"
+  },
+  "ctaText": "Register Now",
+  "loadingText": "Submitting...",
+  "courseName": "Python Automation Workshop",
+  "whatsapp": {
+    "number": "919795298080"
+  },
+  "trustText": "🔒 Secure registration • 📩 Email + WhatsApp confirmation"
+}
